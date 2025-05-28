@@ -4,7 +4,7 @@
     background-size:100%;
     position:relative;
     margin:auto;
-    background-image:url('IMG.png');
+    background-image:url(IMG.png);
 }
 #hours,#minutes,#seconds{
     position:absolute;
